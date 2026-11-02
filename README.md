@@ -28,3 +28,7 @@ Portraits are copied from the members’ own or university profile pages:
 - Lev Reyzin: https://www.levreyzin.com/assets/img/lev-optimized.jpg
 
 The estimated July 2025 appearance date for “Cross-Validation Error Dynamics in Smaller Datasets” is based on its MOSS 2025 workshop version (the workshop was held on 19 July 2025): https://sites.google.com/view/moss2025/accepted-papers. It remains last in the publication list by request.
+
+## Stylesheet caching
+
+All three pages use a versioned stylesheet URL so browsers do not combine a new page layout with cached CSS. Whenever `styles.css` changes, update the `?v=` value in each page to the first 12 characters of the CSS file’s SHA-256 hash. The logo also has a small intrinsic display size as a fallback while CSS loads.
