@@ -1,6 +1,6 @@
 # AIRSHIP Lab
 
-Artificial Intelligence Reasoning for Scientific Hypotheses, Inferences, and Predictions.
+AI Reasoning for Scientific Hypotheses, Inferences, and Predictions.
 
 Website: https://airship-lab.github.io/
 
@@ -17,3 +17,14 @@ No package installation or build step is required. `.nojekyll` disables Jekyll p
 
 The header is shared markup in each HTML page; update all three pages when changing navigation.
 To preview locally, run `python3 -m http.server 8000` in this directory and visit http://localhost:8000.
+
+## Member portraits
+
+Portraits are copied from the members’ own or university profile pages:
+
+- James Unwin: https://jamesunwin.github.io/assets/img/prof_pic.jpg
+- Richard Cavanaugh: https://phys.uic.edu/wp-content/uploads/sites/276/2018/07/cavana-profile-157x180.jpg
+- Laura Schaposnik: https://lauraschaposnik.com/assets/img/prof_pic.jpg
+- Lev Reyzin: https://www.levreyzin.com/assets/img/lev-optimized.jpg
+
+The estimated July 2025 appearance date for “Cross-Validation Error Dynamics in Smaller Datasets” is based on its MOSS 2025 workshop version (the workshop was held on 19 July 2025): https://sites.google.com/view/moss2025/accepted-papers. It remains last in the publication list by request.
