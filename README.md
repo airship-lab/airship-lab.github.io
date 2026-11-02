@@ -4,11 +4,16 @@ Artificial Intelligence Reasoning for Scientific Hypotheses, Inferences, and Pre
 
 Website: https://airship-lab.github.io/
 
-This is a simple static GitHub Pages website. Edit `index.html` for content and
-`styles.css` for layout. The original lab logo is in `assets/airship-logo.png`.
+A static website hosted by GitHub Pages from the root of the `main` branch.
+No package installation or build step is required. `.nojekyll` disables Jekyll processing.
 
-GitHub Pages publishes the root of the `main` branch. The `.nojekyll` file disables
-Jekyll processing; no package installation or build step is required.
+## Pages
 
-To preview locally, run `python3 -m http.server 8000` from this directory and visit
-http://localhost:8000.
+- `index.html`: lab introduction and original logo.
+- `members/index.html`: core members and profile links.
+- `research/index.html`: selected publications.
+- `styles.css`: shared layout, header, typography, and responsive styling.
+- `assets/airship-logo.png`: original lab logo.
+
+The header is shared markup in each HTML page; update all three pages when changing navigation.
+To preview locally, run `python3 -m http.server 8000` in this directory and visit http://localhost:8000.
