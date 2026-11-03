@@ -32,3 +32,7 @@ The estimated July 2025 appearance date for “Cross-Validation Error Dynamics i
 ## Stylesheet caching
 
 All three pages use a versioned stylesheet URL so browsers do not combine a new page layout with cached CSS. Whenever `styles.css` changes, update the `?v=` value in each page to the first 12 characters of the CSS file’s SHA-256 hash. The logo also has a small intrinsic display size as a fallback while CSS loads.
+
+## Partner symbols
+
+- Equitech Futures: official site icon from https://www.equitechfutures.com/ — https://cdn.prod.website-files.com/67a498f10e7c0758d8cd4650/67b301ec422dbb33bcb63e93_fav%20EF.png
