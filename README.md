@@ -26,6 +26,7 @@ Portraits are copied from the members’ own or university profile pages:
 - Richard Cavanaugh: https://phys.uic.edu/wp-content/uploads/sites/276/2018/07/cavana-profile-157x180.jpg
 - Laura Schaposnik: https://lauraschaposnik.com/assets/img/prof_pic.jpg
 - Lev Reyzin: https://www.levreyzin.com/assets/img/lev-optimized.jpg
+- Abhilash Mishra portrait: supplied by James Unwin on 23 November 2026. Profile: https://www.equitechfutures.com/team/abhilash-mishra
 
 The estimated July 2025 appearance date for “Cross-Validation Error Dynamics in Smaller Datasets” is based on its MOSS 2025 workshop version (the workshop was held on 19 July 2025): https://sites.google.com/view/moss2025/accepted-papers. It remains last in the publication list by request.
 
