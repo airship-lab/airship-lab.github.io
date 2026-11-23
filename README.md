@@ -37,3 +37,5 @@ All three pages use a versioned stylesheet URL so browsers do not combine a new 
 ## Partner symbols
 
 - Equitech Futures: official site icon from https://www.equitechfutures.com/ — https://cdn.prod.website-files.com/67a498f10e7c0758d8cd4650/67b301ec422dbb33bcb63e93_fav%20EF.png
+
+- Simons Foundation logo: supplied by James Unwin on 23 November 2026. Both partner logos link to Equitech Futures as requested.
