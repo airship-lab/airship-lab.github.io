@@ -39,3 +39,7 @@ All three pages use a versioned stylesheet URL so browsers do not combine a new 
 - Equitech Futures: official site icon from https://www.equitechfutures.com/ — https://cdn.prod.website-files.com/67a498f10e7c0758d8cd4650/67b301ec422dbb33bcb63e93_fav%20EF.png
 
 - Simons Foundation logo: supplied by James Unwin on 23 November 2026. The partner logos link to Equitech Futures and the Simons Foundation respectively.
+
+## Browser icon
+
+`favicon.png` is a 64 × 64 browser icon showing only the airship, centred on white. It was rendered from an SVG viewport of the original `assets/airship-logo.png`: source rectangle x=200, y=210, width=915, height=525, excluding the lettering. All three pages use a versioned icon URL; update its hash when replacing the PNG.
